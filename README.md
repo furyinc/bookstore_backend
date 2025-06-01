@@ -1,4 +1,3 @@
-````markdown
 # 📚 Bookstore Backend
 
 This is the backend API for the Bookstore web application, built with **Node.js**, **Express**, and **MongoDB**.
@@ -47,4 +46,4 @@ EMAIL_PASS=your_email_password
 
 ## 🔗 Frontend
 
-Connects to: [`bookstore-client`](../bookstore-client)
+Connects to: [bookstore-client](https://github.com/furyinc/bookstore-frontend)
