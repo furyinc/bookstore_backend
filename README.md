@@ -46,4 +46,4 @@ EMAIL_PASS=your_email_password
 
 ## 🔗 Frontend
 
-Connects to: [bookstore-client](https://github.com/furyinc/bookstore-frontend)
+Connects to: [bookstore-client](https://github.com/furyinc/bookstore_frontend)
